@@ -1,4 +1,4 @@
-module github.com/evalphobia/minfraud-api-go
+module github.com/Tim-Blyth-SiteHost/minfraud-api-go
 
 go 1.17
 
