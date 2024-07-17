@@ -7,8 +7,8 @@ import (
 
 	"github.com/mkideal/cli"
 
-	"github.com/evalphobia/minfraud-api-go/config"
-	"github.com/evalphobia/minfraud-api-go/minfraud"
+	"github.com/Tim-Blyth-SiteHost/minfraud-api-go/config"
+	"github.com/Tim-Blyth-SiteHost/minfraud-api-go/minfraud"
 )
 
 const (

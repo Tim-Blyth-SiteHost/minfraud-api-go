@@ -1,9 +1,9 @@
 package minfraud
 
 import (
-	"github.com/evalphobia/minfraud-api-go/client"
-	"github.com/evalphobia/minfraud-api-go/config"
-	"github.com/evalphobia/minfraud-api-go/log"
+	"github.com/Tim-Blyth-SiteHost/minfraud-api-go/client"
+	"github.com/Tim-Blyth-SiteHost/minfraud-api-go/config"
+	"github.com/Tim-Blyth-SiteHost/minfraud-api-go/log"
 )
 
 // MinFraud is service struct for MinFraud API.

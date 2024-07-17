@@ -4,7 +4,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/evalphobia/minfraud-api-go/client"
+	"github.com/Tim-Blyth-SiteHost/minfraud-api-go/client"
 )
 
 const (
